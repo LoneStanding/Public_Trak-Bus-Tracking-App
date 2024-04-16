@@ -1,0 +1,23 @@
+{
+  "name": "public_trak_back_end",
+  "version": "1.0.0",
+  "description": "Back End of my app Public Trak",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "App",
+    "BackEnd",
+    "Public",
+    "Transport"
+  ],
+  "author": "Aadarsh Param Akhouri",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^3.1.0",
+    "protobufjs": "^7.2.6"
+  }
+}
